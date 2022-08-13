@@ -1,1 +1,1 @@
-# tripura
+tripura
